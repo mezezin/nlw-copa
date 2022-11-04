@@ -42,7 +42,7 @@ body * {
 }
 
 #app {
-  width: fit-content;
+  /* width: fit-content; */
   /* usar "width: -moz-fit-content;" para firefox*/
   /*se caso a linha acima não der certo mude para 316px*/
   margin: auto;
@@ -80,7 +80,7 @@ header {
   border: 1px solid var(--card-title-border-color);
   border-radius: 6px;
 
-  width: fit-content;
+  /* width: fit-content; */
   margin-inline: auto;
   margin-bottom: 53px;
 
